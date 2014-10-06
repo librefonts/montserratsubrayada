@@ -1,0 +1,9 @@
+commit: HEAD
+process_files: [MontserratSubrayada-Bold.ttf.ttx, MontserratSubrayada-Regular.ttf.ttx,
+  src/MontserratSubrayada-Regular.otf.ttx, src/MontserratSubrayada-Bold.otf.ttx, src/MontserratSubrayada-Regular-TTF.sfd,
+  src/MontserratSubrayada-Bold-after-fonttools-prep-gasp-TTF.sfd, src/MontserratSubrayada-Bold-TTF.sfd,
+  src/MontserratSubrayada-Regular-after-fonttools-prep-gasp-TTF.sfd, src/MontserratSubrayada-Regular-backup-fonttools-prep-gasp-TTF.sfd,
+  src/MontserratSubrayada-Bold-backup-fonttools-prep-gasp-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

@@ -1,0 +1,87 @@
+{
+  "name": "Montserrat Subrayada",
+  "designer": "Julieta Ulanovsky",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 11521,
+  "fonts": [
+    {
+      "name": "Montserrat Subrayada",
+      "style": "normal",
+      "weight": 700,
+      "filename": "MontserratSubrayada-Bold-after-fonttools-prep-gasp-TTF.ttf",
+      "postScriptName": "MontserratSubrayada-Bold",
+      "fullName": "MontserratSubrayada-Bold",
+      "copyright": "Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'"
+    },
+    {
+      "name": "Montserrat Subrayada",
+      "style": "normal",
+      "weight": 400,
+      "filename": "MontserratSubrayada-Regular-backup-fonttools-prep-gasp-TTF.ttf",
+      "postScriptName": "MontserratSubrayada-Regular",
+      "fullName": "MontserratSubrayada-Regular",
+      "copyright": "Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'"
+    },
+    {
+      "name": "Montserrat Subrayada",
+      "style": "normal",
+      "weight": 400,
+      "filename": "MontserratSubrayada-Regular-after-fonttools-prep-gasp-TTF.ttf",
+      "postScriptName": "MontserratSubrayada-Regular",
+      "fullName": "MontserratSubrayada-Regular",
+      "copyright": "Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'"
+    },
+    {
+      "name": "Montserrat Subrayada",
+      "style": "normal",
+      "weight": 700,
+      "filename": "MontserratSubrayada-Bold-TTF.ttf",
+      "postScriptName": "MontserratSubrayada-Bold",
+      "fullName": "MontserratSubrayada-Bold",
+      "copyright": "Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'"
+    },
+    {
+      "name": "Montserrat Subrayada",
+      "style": "normal",
+      "weight": 400,
+      "filename": "MontserratSubrayada-Regular-TTF.ttf",
+      "postScriptName": "MontserratSubrayada-Regular",
+      "fullName": "MontserratSubrayada-Regular",
+      "copyright": "Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'"
+    },
+    {
+      "name": "Montserrat Subrayada",
+      "style": "normal",
+      "weight": 700,
+      "filename": "MontserratSubrayada-Bold.ttf",
+      "postScriptName": "MontserratSubrayada-Bold",
+      "fullName": "MontserratSubrayada-Bold",
+      "copyright": "Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'"
+    },
+    {
+      "name": "Montserrat Subrayada",
+      "style": "normal",
+      "weight": 400,
+      "filename": "MontserratSubrayada-Regular.ttf",
+      "postScriptName": "MontserratSubrayada-Regular",
+      "fullName": "MontserratSubrayada-Regular",
+      "copyright": "Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'"
+    },
+    {
+      "name": "Montserrat Subrayada",
+      "style": "normal",
+      "weight": 700,
+      "filename": "MontserratSubrayada-Bold-backup-fonttools-prep-gasp-TTF.ttf",
+      "postScriptName": "MontserratSubrayada-Bold",
+      "fullName": "MontserratSubrayada-Bold",
+      "copyright": "Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com), with Reserved Font Names 'Montserrat'"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-10-01"
+}
